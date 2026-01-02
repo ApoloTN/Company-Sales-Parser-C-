@@ -1,0 +1,28 @@
+Walmart Downtown #Store 1025  123 Main Street
+
+DP: $25 432
+Gift Card sale (NR): $120
+(NR) Bottle deposit: $15
+(NR) Special order deposit: $50
+(NR) Clearance returns: $30
+(NR) Seasonal item deposit: $75
+(NR) Electronics returns: $200
+(NR) Online order pick-up: $60
+(NR) Bulk item deposit: $90
+(NR) Customer loyalty card redemption: $45
+(NR) Seasonal sale deposit: $110
+(NR) Frozen goods deposit: $80
+(NR) Bakery deposit: $25
+(NR) Beverage deposit: $40
+(NR) Home goods deposit: $65
+(NR) Clothing returns: $70
+(NR) Garden supply deposit: $55
+(NR) Pet supply deposit: $35
+(NR) Toy returns: $50
+(NR) Office supply deposit: $20
+
+AVG: $23.5643
+
+Number of customers: 1075
+
+--------------------------------------------------
