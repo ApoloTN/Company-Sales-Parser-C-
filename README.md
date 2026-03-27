@@ -26,16 +26,10 @@ While working at Bulk Barn, I frequently had to manually compile and write these
 
 ## Compilation & Usage
 
-1. Open a terminal in the project directory.
-2. Compile using GCC:
-   ```bash
-   gcc -o run main.c
-   ```
-3. Run the program:
-   ```bash
-   ./run
-   ```
-4. Input the sales file name when prompted.
+1. Bash in folder dir
+2. type "make"
+3. to run program type "/run"
+4. Input the sales file name when prompted. (You can use the example file in git hub)
 5. Input your name as the sender.
 6. The program creates a `.txt` email document ready to copy into your email client.
 
